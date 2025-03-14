@@ -1,40 +1,45 @@
-# 👋 Bonjour, je suis FarfadetMrs
+# 👋 Hello, I'm FarfadetMrs
 
-## 💻 Développeur logiciel & systèmes embarqués
+## 💻 Software & Embedded Systems Developer
 
-Passionné par le développement logiciel et les systèmes embarqués, je crée des solutions alliant software et hardware pour donner vie à des projets innovants.
+Passionate about software development and embedded systems, I create solutions combining software and hardware to bring innovative projects to life.
 
-### 🛠️ Compétences techniques
+### 🛠️ Technical Skills
 
-- **Langages de programmation**: Python, C
-- **Systèmes d'exploitation**: Linux, Windows
-- **Plateformes embarquées**: Arduino, Raspberry Pi, ESP32, STM32
-- **Outils**: Git, VSCode
-- **Domaines**: IoT, développement logiciel, systèmes embarqués
+- **Programming Languages**: Python, C
+- **Operating Systems**: Linux, Windows
+- **Embedded Platforms**: Raspberry Pi, ESP32, STM32
+- **Tools**: Git, VSCode
+- **Domains**: IoT, software development, embedded systems
 
-### 🔍 Centres d'intérêt
+### 🔍 Areas of Interest
 
-- Internet des objets (IoT)
-- Systèmes embarqués
-- Intelligence artificielle
-- Développement logiciel
-- Projets open source
+- 🎮 Video Games
+- 🌐 Internet of Things (IoT)
+- 🔌 Embedded Systems
+- 🧠 Artificial Intelligence
+- 💻 Software Development
+- 🚀 Emerging Technologies
 
-### 🎯 Objectifs
+### 🎯 Goals
 
-- Explorer et maîtriser de nouvelles technologies
-- Partager mes connaissances avec la communauté
-- Contribuer à des projets innovants
-- Aider les autres dans leur parcours d'apprentissage
+- Explore and master new technologies
+- Share my knowledge with the community
+- Contribute to innovative projects
+- Help others in their learning journey
 
-### 📊 Statistiques GitHub
+### 📊 GitHub Stats
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=FarfadetMrs&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarfadetMrs&show_icons=true&theme=radical)
 
-### 📫 Comment me contacter
+### 💻 Most Used Languages
 
-N'hésitez pas à me contacter pour discuter de projets, de collaboration ou simplement pour échanger sur la technologie !
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarfadetMrs&layout=compact&theme=radical)
+
+### 📫 How to Reach Me
+
+Feel free to contact me to discuss projects, collaboration opportunities, or just to chat about technology!
 
 ---
 
-*"Le code est comme l'humour. Quand on doit l'expliquer, c'est mauvais." – Cory House*
+*"Code is like a video game: easy to learn, difficult to master."*
